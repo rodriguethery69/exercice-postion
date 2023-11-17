@@ -1,0 +1,41 @@
+
+.forme{
+    display: flex;
+    justify-content: space-evenly; 
+    height: 100vh;
+    align-items: center;
+}
+.recblue {
+    width: 800px;
+    height: 800px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.recred{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.recviolet{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.recvert{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
